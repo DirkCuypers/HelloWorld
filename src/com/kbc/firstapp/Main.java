@@ -10,6 +10,7 @@ public class Main {
         myFirstList.add("C. First Element");
         myFirstList.add("B. Second Element");
         myFirstList.add("A. Third Element");
+        myFirstList.add("ZZZZ extra topic");
         System.out.println("My first list:" + myFirstList);
 
         List<String> mySortedList = myFirstList.stream()
