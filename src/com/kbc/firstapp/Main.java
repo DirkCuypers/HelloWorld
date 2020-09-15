@@ -13,6 +13,7 @@ public class Main {
         myFirstList.add("ZZZZ extra topic");
         myFirstList.add("Extra branck item");
         myFirstList.add("In the second branch");
+        myFirstList .add("Last change");
         System.out.println("My first list:" + myFirstList);
 
         List<String> mySortedList = myFirstList.stream()
